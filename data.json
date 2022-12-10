@@ -2,7 +2,7 @@
   {
     "id": 1,
     "year": 2021,
-    "month": "July",
+    "month": 7,
     "date": 12,
     "readingTime": 11,
     "heading": "Something is",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "year": 2021,
-    "month": "July",
+    "month": 8,
     "date": 18,
     "readingTime": 11,
     "heading": "Soing on wit all off us",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "year": 2021,
-    "month": "July",
+    "month": 10,
     "date": 10,
     "readingTime": 11,
     "heading": "Swit all off us",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "year": 2021,
-    "month": "Dec",
+    "month": 1,
     "date": 30,
     "readingTime": 11,
     "heading": "Something is off us",
